@@ -1,0 +1,11 @@
+What is React?
+React is a javascript library not a framework.it is used to desgin fronted of a website.
+React is generally written as reactjs or react.js.
+
+Who created?
+Facebook created React and implemented first time in 2011 for facebook feeds and  open sourced in 2013 at javascript conference.
+
+About:
+React has component based  architecture which means a complex websites can be divided into small components to build easily.
+Due to component code can be used again and again which increases reusablity of the code.hence,time saver for developers.
+it is simple,fast for both developement and user ends.
