@@ -1,0 +1,10 @@
+What is Components??
+-> Component is the building block of React application which describes the user interface.For example, if a simple website have 3 things header,body and footer,
+then these three things can be developed as a component in react.in a website there can be added as many components we need. one component can also host other component
+for example, app.js host the different other components used in website design.
+components is a basically a javascrpit file with javascrpit code in it.
+
+Types of Components??
+-->There are two types of components in the react, one is stateless functional component other is stateful class component.
+
+ 
